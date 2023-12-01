@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buğra Burak Önal</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Typescript , React**
+- 🌱 I’m currently learning **Angular , Spring**
 
 - 📫 How to reach me **bugraburakonal@gmail.com**
 
